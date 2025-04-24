@@ -1,5 +1,7 @@
 Started as a final project for Introduction to Computational Mathematics; Now occasionally devours an evening adding a new feature.
 
+Requires matplotlib.
+
 Simulated Annealing algorithm that generates keyboard layouts that succeed on a few heuristics. At the moment those are:
 
     - Move Frequent Characters to the Homerow
