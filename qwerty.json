@@ -1,0 +1,74 @@
+{
+    "layout": [
+        [
+            { "base": "`", "shift": "~", "x": 0, "y": 0 },
+            { "base": "1", "shift": "!", "x": 1, "y": 0 },
+            { "base": "2", "shift": "@", "x": 2, "y": 0 },
+            { "base": "3", "shift": "#", "x": 3, "y": 0 },
+            { "base": "4", "shift": "$", "x": 4, "y": 0 },
+            { "base": "5", "shift": "%", "x": 5, "y": 0 },
+            { "base": "6", "shift": "^", "x": 6, "y": 0 },
+            { "base": "7", "shift": "&", "x": 7, "y": 0 },
+            { "base": "8", "shift": "*", "x": 8, "y": 0 },
+            { "base": "9", "shift": "(", "x": 9, "y": 0 },
+            { "base": "0", "shift": ")", "x": 10, "y": 0 },
+            { "base": "-", "shift": "_", "x": 11, "y": 0 },
+            { "base": "=", "shift": "+", "x": 12, "y": 0 },
+            { "name": "backspace", "x": 13, "y": 0, "width": 2.0 }
+        ],
+        [
+            { "name": "tab", "x": 0, "y": 1, "width": 1.5 },
+            { "base": "q", "shift": "Q", "x": 1.5, "y": 1 },
+            { "base": "w", "shift": "W", "x": 2.5, "y": 1 },
+            { "base": "e", "shift": "E", "x": 3.5, "y": 1 },
+            { "base": "r", "shift": "R", "x": 4.5, "y": 1 },
+            { "base": "t", "shift": "T", "x": 5.5, "y": 1 },
+            { "base": "y", "shift": "Y", "x": 6.5, "y": 1 },
+            { "base": "u", "shift": "U", "x": 7.5, "y": 1 },
+            { "base": "i", "shift": "I", "x": 8.5, "y": 1 },
+            { "base": "o", "shift": "O", "x": 9.5, "y": 1 },
+            { "base": "p", "shift": "P", "x": 10.5, "y": 1 },
+            { "base": "[", "shift": "{", "x": 11.5, "y": 1 },
+            { "base": "]", "shift": "}", "x": 12.5, "y": 1 },
+            { "base": "\\", "shift": "|", "x": 13.5, "y": 1, "width": 1.5 }
+        ],
+        [
+            { "name": "capslock", "x": 0, "y": 2, "width": 1.75 },
+            { "base": "a", "shift": "A", "x": 1.75, "y": 2 },
+            { "base": "s", "shift": "S", "x": 2.75, "y": 2 },
+            { "base": "d", "shift": "D", "x": 3.75, "y": 2 },
+            { "base": "f", "shift": "F", "x": 4.75, "y": 2 },
+            { "base": "g", "shift": "G", "x": 5.75, "y": 2 },
+            { "base": "h", "shift": "H", "x": 6.75, "y": 2 },
+            { "base": "j", "shift": "J", "x": 7.75, "y": 2 },
+            { "base": "k", "shift": "K", "x": 8.75, "y": 2 },
+            { "base": "l", "shift": "L", "x": 9.75, "y": 2 },
+            { "base": ";", "shift": ":", "x": 10.75, "y": 2 },
+            { "base": "'", "shift": "\"", "x": 11.75, "y": 2 },
+            { "name": "enter", "x": 12.75, "y": 2, "width": 2.25 }
+        ],
+        [
+            { "name": "shift_l", "x": 0, "y": 3, "width": 2.25 },
+            { "base": "z", "shift": "Z", "x": 2.25, "y": 3 },
+            { "base": "x", "shift": "X", "x": 3.25, "y": 3 },
+            { "base": "c", "shift": "C", "x": 4.25, "y": 3 },
+            { "base": "v", "shift": "V", "x": 5.25, "y": 3 },
+            { "base": "b", "shift": "B", "x": 6.25, "y": 3 },
+            { "base": "n", "shift": "N", "x": 7.25, "y": 3 },
+            { "base": "m", "shift": "M", "x": 8.25, "y": 3 },
+            { "base": ",", "shift": "<", "x": 9.25, "y": 3 },
+            { "base": ".", "shift": ">", "x": 10.25, "y": 3 },
+            { "base": "/", "shift": "?", "x": 11.25, "y": 3 },
+            { "name": "shift_r", "x": 12.25, "y": 3, "width": 2.75 }
+        ],
+        [
+            { "name": "ctrl_l", "x": 0, "y": 4, "width": 1.25 },
+            { "name": "alt_l", "x": 1.25, "y": 4, "width": 1.25 },
+            { "name": "super_l", "x": 2.5, "y": 4, "width": 1.25 },
+            { "name": "space", "x": 3.75, "y": 4, "width": 6.25 },
+            { "name": "super_r", "x": 10, "y": 4, "width": 1.25 },
+            { "name": "alt_r", "x": 11.25, "y": 4, "width": 1.25 },
+            { "name": "ctrl_r", "x": 12.5, "y": 4, "width": 1.25 }
+        ]
+    ]
+}
