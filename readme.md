@@ -19,5 +19,7 @@ Coming "Soon":
     - Export to QMK json format
     - Actually test the generated keyboards; is it worth switching keyboard layouts specific to use cases?
     - More Corpi
+    - Trigram Frequency
+    - Modularize
 
 Haven't provided any corpi becasue of licenses, but the program expects them as single text files with a hardcoded path. I've provided a couple of scripts that I threw together to quickly make corpi workable with this limitation.
